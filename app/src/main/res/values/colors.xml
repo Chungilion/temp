@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Red and White Theme Colors -->
+    <color name="colorPrimary">#FF0000</color> <!-- Main Red color -->
+    <color name="colorPrimaryDark">#B20000</color> <!-- Darker shade of Red -->
+    <color name="colorAccent">#FFFFFF</color> <!-- White for Accent -->
+
+    <!-- Additional Colors -->
+    <color name="red">#FF0000</color> <!-- Red -->
+    <color name="white">#FFFFFFFF</color> <!-- White -->
+
+    <!-- Legacy color names (updated to red theme) -->
+    <color name="purple_200">#FFCC0000</color> <!-- Light Red alternative -->
+    <color name="purple_500">#FFB20000</color> <!-- Dark Red alternative -->
+    <color name="purple_700">#FF990000</color> <!-- Another shade of Red -->
+    <color name="teal_200">#FFD32F2F</color> <!-- Muted Red alternative -->
+    <color name="teal_700">#FFB71C1C</color> <!-- Another shade of dark Red -->
+    <color name="black">#FF000000</color> <!-- Black remains the same -->
+</resources>
